@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Epic Vortex</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, min-scale=1, max-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/normalize.css">
 	<link rel="stylesheet" type="text/css" href="css/slick.css">
