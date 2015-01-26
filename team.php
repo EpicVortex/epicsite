@@ -21,23 +21,28 @@
     </nav>
   </header>
 
-  <table style="width:100%">
-    <tr>
-      <td class="desc">Miguel Branco</td>
-      <td class="desc">Software Developer</td>
-      <td class="desc">Portugal</td>
-    </tr>
-    <tr>
-      <td class="desc">Gustaf Linnerborg</td>
-      <td class="desc">Designer</td>
-      <td class="desc">Sweden</td>
-    <tr>
-    </tr>
-      <td class="desc">Gonçalo Graças</td>
-      <td class="desc">Software Developer</td>
-      <td class="desc">Portugal</td>
-    </tr>
-  </table>
+  <div class="container">
+    <div class="heading">
+      <div class="header-col">Name</div>
+      <div class="header-col">Role</div>
+      <div class="header-col">Nationality</div>
+    </div>
+    <div class="table-row">
+      <div class="col">Miguel Branco</div>
+      <div class="col">Software Developer</div>
+      <div class="col">Portuguese</div>
+    </div>
+    <div class="table-row">
+      <div class="col">Gustaf Linnerborg</div>
+      <div class="col">Designer</div>
+      <div class="col">Swedish</div>
+    </div>
+    <div class="table-row">
+      <div class="col">Gon&ccedil;alo Gra&ccedil;as</div>
+      <div class="col">Software Developer</div>
+      <div class="col">Portuguese</div>
+    </div>
+  </div>
 
   <script src="js/jquery-1.11.2.min.js"></script>
   <script src="js/slick.min.js"></script>

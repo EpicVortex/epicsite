@@ -202,12 +202,41 @@ nav a {
 
 /***** Team *****/
 
-td.desc {
-	font-size:	20px;
-	color: #006023;
-	border: 1px solid white;
+.container{
+	display:table;
+	width:100%;
 	border-collapse: collapse;
-	padding-left: 15px;
+}
+.heading{
+	font-weight: bold;
+	display:table-row;
+	text-align: center;
+	line-height: 25px;
+	font-family:georgia;
+}
+.table-row{
+	display:table-row;
+	text-align: center;
+}
+
+.header-col{
+	display:table-cell;
+	#border: 1px solid #CCC;
 	padding-top: 10px;
-	padding-bottom: 10px;
+	font-size: 25px;
+	color:			#A06023;
+}
+
+.col{
+	display:table-cell;
+	#border: 1px solid #CCC;
+	padding-top: 10px;
+	font-size: 20px;
+	color:			#006023;
+}
+
+/***** Events *****/
+
+.table-row:hover{
+	background-color:			#100623;
 }
