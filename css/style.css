@@ -197,3 +197,17 @@ nav a {
 		margin-top:	50%;
 	}
 }
+
+/***** Body *****/
+
+/***** Team *****/
+
+td.desc {
+	font-size:	20px;
+	color: #006023;
+	border: 1px solid white;
+	border-collapse: collapse;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
