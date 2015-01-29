@@ -202,37 +202,43 @@ nav a {
 
 /***** Team *****/
 
-.container{
-	display:table;
-	width:100%;
-	border-collapse: collapse;
-}
-.heading{
-	font-weight: bold;
-	display:table-row;
-	text-align: center;
-	line-height: 25px;
-	font-family:georgia;
-}
-.table-row{
-	display:table-row;
-	text-align: center;
+.left-div{
+	float: left;
+	text-align: left;
+	width: 50%;
+	margin-top: 50px;
+	margin-left: 20px;
 }
 
-.header-col{
-	display:table-cell;
-	#border: 1px solid #CCC;
-	padding-top: 10px;
-	font-size: 25px;
-	color:			#A06023;
+.left-div-photo{
+	float: right;
+	text-align: right;
+	width: 30%;
+	margin-top: 50px;
+	margin-right: 20px;
 }
 
-.col{
-	display:table-cell;
-	#border: 1px solid #CCC;
-	padding-top: 10px;
-	font-size: 20px;
-	color:			#006023;
+.right-div{
+	float: right;
+	text-align: right;
+	width: 50%;
+	margin-top: 50px;
+	margin-right: 20px;
+}
+
+.right-div-photo{
+	float: left;
+	text-align: left;
+	width: 30%;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+.photo{
+	border:1px solid #;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
 }
 
 /***** Events *****/

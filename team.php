@@ -21,28 +21,41 @@
     </nav>
   </header>
 
-  <div class="container">
-    <div class="heading">
-      <div class="header-col">Name</div>
-      <div class="header-col">Role</div>
-      <div class="header-col">Nationality</div>
+  <div class="cf">
+    <div class="left-div">
+      <h2>Miguel Branco</h2>
+      <p>Software developer with a passion for all things digital. Currently interested in Android,
+        Web Development and tinkering with Pebble watch, Raspberry Pi, and Arduino. Also pretends
+        to have time to plan and execute games.</p>
     </div>
-    <div class="table-row">
-      <div class="col">Miguel Branco</div>
-      <div class="col">Software Developer</div>
-      <div class="col">Portuguese</div>
-    </div>
-    <div class="table-row">
-      <div class="col">Gustaf Linnerborg</div>
-      <div class="col">Designer</div>
-      <div class="col">Swedish</div>
-    </div>
-    <div class="table-row">
-      <div class="col">Gon&ccedil;alo Gra&ccedil;as</div>
-      <div class="col">Software Developer</div>
-      <div class="col">Portuguese</div>
+    <div class="left-div-photo">
+      <img class="photo" src="img/featured/mb-small.jpg"></img>
     </div>
   </div>
+  <div class="cf">
+    <div class="right-div">
+      <h2>Gustaf Linnerborg</h2>
+      <p>Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas
+        Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas
+        Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas Cenas</p>
+    </div>
+    <div class="right-div-photo">
+      <img class="photo" src="img/featured/gl-small.jpg"></img>
+    </div>
+  </div>
+  <div class="cf">
+    <div class="left-div">
+      <h2>Gon&ccedil;alo Gra&ccedil;as</h2>
+      <p>Software engineer, whose main areas of expertise and interest are Software Engineering concepts,
+         including Software design, development and testing. Additionally, has also great affinity and
+         good knowledge about Ubiquitous and Mobile Computing as well as Distributed Systems.</p>
+    </div>
+    <div class="left-div-photo">
+      <img class="photo" src="img/featured/gg-small.jpg"></img>
+    </div>
+  </div>
+
+
 
   <script src="js/jquery-1.11.2.min.js"></script>
   <script src="js/slick.min.js"></script>
