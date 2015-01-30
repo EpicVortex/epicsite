@@ -47,6 +47,15 @@
 		</div>
 	</article>
 
+	<article class="team-area">
+		<div class="team-feature">
+			<div class="team-image"></div>
+			<div class="team-info">
+				Check out our team!
+			</div>
+		</div>
+	</article>
+
 	<script src="js/jquery-1.11.2.min.js"></script>
 	<script src="js/slick.min.js"></script>
 	<script src="js/script.js"></script>
