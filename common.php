@@ -5,10 +5,12 @@
  */
 
 
-
 /** Configuration */
-ini_set('display_errors', 'on');
+define(DEBUG, true);
 
+if (DEBUG) {
+	ini_set('display_errors', 'on');
+}
 
 
 /**
