@@ -27,7 +27,8 @@ function startPage() {
 		<meta charset="utf-8">
 		<title>Epic Vortex</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="css/normalize.css">
 		<link rel="stylesheet" type="text/css" href="css/slick.css">
 		<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
@@ -46,7 +47,7 @@ function pageHeader() {
 ?>
 	<header>
 		<div class="limited-width cf">
-			<a href="index.php"><img class="logo" src="img/logo.png"></a>
+			<a href="index.php" class="logo"><img src="img/logo.png"></a>
 			<nav class="cf">
 				<a href="sueca.php">Products</a>
 				<a href="team.php">Team</a>
@@ -64,6 +65,19 @@ function pageFooter() {
 ?>
 
 	<footer>
+		<nav class="cf limited-width">
+			<div class="sub-nav">
+				<h2>Contact us</h2>
+				<a href="mailto:contact@epicvortex.com"><i class="fa fa-envelope"></i>contact@epicvortex.com</a><br>
+				<a href="#"><i class="fa fa-google-plus"></i>plus.google.com/epicvortex</a><br>
+				<a href="#"><i class="fa fa-facebook"></i>facebook.com/epicvortex</a>
+			</div>
+			<div class="sub-nav">
+				<h2>Software</h2>
+				<a href="mailto:contact@epicvortex.com"><i class="fa fa-android"></i>Play Store</a><br>
+				<a href="#"><i class="fa fa-apple"></i>App Store</a><br>
+			</div>
+		</nav>
 	</footer>
 
 
