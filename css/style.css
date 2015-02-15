@@ -130,7 +130,6 @@ a:hover .fa-android {
 	color:	#6ab344;
 }
 
-
 /***** Slider *****/
 
 .slider {
@@ -252,6 +251,12 @@ a:hover .fa-android {
 }
 
 /***** Team *****/
+
+.a-linkedin {
+	color:				#ffffff;
+	font-size:			1.2em;
+	text-decoration:	none;
+}
 
 .left-div {
 	float: left;
