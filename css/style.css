@@ -251,8 +251,6 @@ a:hover .fa-android {
 	background-color:	#5a5a5a;
 }
 
-
-
 /***** Team *****/
 
 .left-div {
@@ -261,6 +259,8 @@ a:hover .fa-android {
 	width: 50%;
 	margin-top: 50px;
 	margin-left: 20px;
+	text-align: justify;
+	text-justify: inter-word;
 }
 
 .left-div-photo {
@@ -277,6 +277,8 @@ a:hover .fa-android {
 	width: 50%;
 	margin-top: 50px;
 	margin-right: 20px;
+	text-align: justify;
+	text-justify: inter-word;
 }
 
 .right-div-photo {
@@ -292,6 +294,8 @@ a:hover .fa-android {
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	border-radius: 20px;
+	max-width:100%;
+	height:auto;"
 }
 
 /***** Events *****/
@@ -299,13 +303,6 @@ a:hover .fa-android {
 .table-row:hover {
 	background-color:			#100623;
 }
-
-
-
-
-
-
-
 
 /***** Media Queries *****/
 
