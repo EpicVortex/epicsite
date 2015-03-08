@@ -15,6 +15,7 @@
 						Features crisp graphics with two possible themes, achievements and many game
 						options and variants so you can play your preferred version of Sueca.
 					</p>
+					<a href="sueca.php">read more &gt;</a>
 				</div>
 			</div>
 			<!-- <div class="slide">
@@ -38,6 +39,7 @@
 					Two programmers with different backgrounds and a promising designer
 					that all strive to create the experiences you'll enjoy tomorrow
 				</p>
+				<a href="team.php">check us out &gt;</a>
 			</div>
 		</div>
 	</article>
