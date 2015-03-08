@@ -27,7 +27,7 @@ function startPage() {
 		<meta charset="utf-8">
 		<title>Epic Vortex</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-		<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="css/normalize.css">
 		<link rel="stylesheet" type="text/css" href="css/slick.css">
@@ -49,8 +49,8 @@ function pageHeader() {
 		<div class="limited-width cf">
 			<a href="index.php" class="logo"><img src="img/logo.png"></a>
 			<nav class="cf">
-				<a href="sueca.php">Products</a>
 				<a href="team.php">Team</a>
+				<a href="sueca.php">Apps</a>
 			</nav>
 		</div>
 	</header>
