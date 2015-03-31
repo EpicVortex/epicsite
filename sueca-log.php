@@ -15,7 +15,9 @@ if (isset($_FILES["file"])) {
 			mkdir('sueca-logs', 0777);
 		}
 
-		move_uploaded_file($tempFile, 'sueca-logs/' + uniqid() + '.log');
+		$filename = 'sueca-logs/' . uniqid() . ".log";
+		$res = move_uploaded_file($tempFile, $filename);
+		echo "Moved file $filename: " . (int) $res . "<br>\n";
 	}
 }
 
