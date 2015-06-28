@@ -6,7 +6,7 @@
 	<article>
 		<div class="slider">
 			<div class="slide">
-				<div class="slide-bg" style="background: url(img/featured/1.jpg) no-repeat center center; background-size: cover;"></div>
+				<div class="slide-bg" style="background: url(img/featured/sueca.jpg) no-repeat center center; background-size: cover;"></div>
 				<div class="slide-layer">
 					<h2>Sueca</h2>
 					<p>

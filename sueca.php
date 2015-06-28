@@ -4,7 +4,7 @@
 	<?php pageHeader(); ?>
 
 	<div class="page app sueca">
-		<div class="page-header" style="background: url(img/featured/1.jpg) no-repeat center center; background-size: cover;">
+		<div class="page-header" style="background: url(img/featured/sueca.jpg) no-repeat center center; background-size: cover;">
 			<div class="page-title">
 				<div class="limited-width">
 					<h1>Sueca</h1>
