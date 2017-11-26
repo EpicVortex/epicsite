@@ -16,9 +16,9 @@
 			<div class="left-div">
 				<h2>
 					Miguel Branco
-					<a class="a-linkedin" href="https://www.linkedin.com/in/migueljcb" target="_blank">
+					<!--<a class="a-linkedin" href="https://www.linkedin.com/in/migueljcb" target="_blank">
 						<i class="fa fa-linkedin-square"></i>
-					</a>
+					</a>-->
 				</h2>
 				<p>
 					Software developer with a passion for all things digital.
@@ -53,9 +53,9 @@
 			<div class="left-div">
 				<h2>
 					Gon&ccedil;alo Gra&ccedil;as
-					<a class="a-linkedin" href="https://www.linkedin.com/profile/view?id=179389089" target="_blank">
+					<!--<a class="a-linkedin" href="https://www.linkedin.com/profile/view?id=179389089" target="_blank">
 						<i class="fa fa-linkedin-square"></i>
-					</a>
+					</a>-->
 				</h2>
 				<p>
 					Software engineer, whose main areas of expertise and interest are Software Engineering
