@@ -26,6 +26,7 @@ function startPage() {
 	<head>
 		<meta charset="utf-8">
 		<title>Epic Vortex</title>
+		<link rel="shortcut icon" href="favicon.ico" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
