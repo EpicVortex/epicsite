@@ -264,9 +264,9 @@ header nav a:hover {
 	position:	absolute;
 	top:		50%;
 	left:		10px;
-	margin-top:	-2.5em;
+	margin-top:	-0.5em;
 	font-size:	5em;
-	line-height:5em;
+	line-height:1em;
 }
 
 
@@ -300,7 +300,8 @@ header nav a:hover {
 /***** Team *****/
 
 .page.team .page-title h1 {
-	color:	#000000;
+	color:	#ffffff;
+    text-shadow: 2px 2px 10px #000000, 2px 2px 10px #000000;
 }
 
 .a-linkedin {

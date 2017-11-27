@@ -22,7 +22,7 @@
 				</h2>
 				<p>
 					Software developer with a passion for all things digital.
-					Currently interested in Mobile and Web Development, and tinkering with Pebble watch,
+					Currently interested in Mobile and Web Development, and tinkering with Android Wear,
 					Raspberry Pi, and Arduino. Co-founded Epic Vortex in 2010 with the objective of
 					publishing mobile apps developed in his spare time. Since then, the team grew on
 					to become more than a hobby project.

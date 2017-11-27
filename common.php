@@ -69,14 +69,14 @@ function pageFooter() {
 		<nav class="cf limited-width">
 			<div class="sub-nav">
 				<h2>Contact us</h2>
-				<a href="mailto:contact@epicvortex.com"><i class="fa fa-envelope"></i>contact@epicvortex.com</a><br>
-				<a href="#"><i class="fa fa-google-plus"></i>plus.google.com/epicvortex</a><br>
-				<a href="#"><i class="fa fa-facebook"></i>facebook.com/epicvortex</a>
+				<a href="mailto:contact@epicvortex.com" target="_blank"><i class="fa fa-envelope"></i>contact@epicvortex.com</a><br>
+				<!-- <a href="#"><i class="fa fa-google-plus"></i>plus.google.com/epicvortex</a><br> -->
+				<a href="https://www.facebook.com/epicvortex/" target="_blank"><i class="fa fa-facebook"></i>facebook.com/epicvortex</a>
 			</div>
 			<div class="sub-nav">
 				<h2>Software</h2>
-				<a href="mailto:contact@epicvortex.com"><i class="fa fa-android"></i>Play Store</a><br>
-				<a href="#"><i class="fa fa-apple"></i>App Store</a><br>
+				<a href="https://play.google.com/store/apps/developer?id=Epic+Vortex&hl=en" target="_blank"><i class="fa fa-android"></i>Play Store</a><br>
+				<!-- <a href="#"><i class="fa fa-apple"></i>App Store</a><br> -->
 			</div>
 		</nav>
 	</footer>
